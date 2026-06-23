@@ -231,7 +231,7 @@ export const siteConfig = {
         <span>
           ReelCraft supports direct export to Instagram Reels, TikTok, YouTube
           Shorts, and Facebook. The platform auto-formats your video for each
-          platform's aspect ratio and character limits so you never have to
+          platform&apos;s aspect ratio and character limits so you never have to
           re-edit.
         </span>
       ),
